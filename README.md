@@ -1,0 +1,1 @@
+# wordsync-support
